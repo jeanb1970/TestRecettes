@@ -1,0 +1,25 @@
+# macOS files
+.DS_Store
+
+# Node / npm (even if not used now)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Build artefacts (if a build step is added later)
+*.js.map
+
+# IDE / editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Generated assets (if regenerated)
+assets/*.tmp
+
+# Logs
+*.log
+
+# Miscellaneous
+Thumbs.db
