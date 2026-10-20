@@ -2,6 +2,9 @@
 
 Planificateur de menus normands – une petite application web simple qui permet de composer les repas du midi et du soir pour chaque jour de la semaine.
 
+## Site en ligne
+👉 https://jeanb1970.github.io/TestRecettes/
+
 ## Fonctionnalités
 - Saisie libre des plats (entrée, plat principal, légumes, féculents, dessert)
 - Nombre de convives (1‑6) obligatoire
